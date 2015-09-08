@@ -1,0 +1,72 @@
+[ 2015-09-06T11:24:43+08:00 ] 127.0.0.1 /php/index.php/index/show
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:25:24+08:00 ] 127.0.0.1 /php/index.php/index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:26:11+08:00 ] 127.0.0.1 /php/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:26:33+08:00 ] 127.0.0.1 /php/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:26:43+08:00 ] 127.0.0.1 /php/index.php/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:28:04+08:00 ] 127.0.0.1 /php/index.php/Index/show
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:28:44+08:00 ] 127.0.0.1 /php/index.php/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:29:08+08:00 ] 127.0.0.1 /PHP/index.php/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:29:09+08:00 ] 127.0.0.1 /PHP/index.php/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:29:10+08:00 ] 127.0.0.1 /PHP/index.php/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Index
+
+[ 2015-09-06T11:32:49+08:00 ] 127.0.0.1 /PHP/index.php/Good/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Good
+
+[ 2015-09-06T11:32:53+08:00 ] 127.0.0.1 /PHP/index.php/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Goods
+
+[ 2015-09-06T11:35:55+08:00 ] 127.0.0.1 /PHP/index.php/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Goods
+
